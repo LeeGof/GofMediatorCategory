@@ -1,0 +1,6 @@
+framework module Pods_GofMediatorCategory_Tests {
+  umbrella header "Pods-GofMediatorCategory_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

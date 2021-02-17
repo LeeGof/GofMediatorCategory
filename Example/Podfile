@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '11.0'
+
+target 'GofMediatorCategory_Example' do
+  pod 'GofMediator', '0.1.0'
+
+  target 'GofMediatorCategory_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
